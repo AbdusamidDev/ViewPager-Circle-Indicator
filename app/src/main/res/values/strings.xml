@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click">click</string>
+    <string name="hush_kelibsiz_bu_ilovamizda_siz_koplab_foydali_malumotlar_olishingiz_mumkin">Hush kelibsiz bu ilovamizda siz koplab foydali malumotlar olishingiz mumkin.</string>
+    <string name="otkazib_yuborish">Otkazib yuborish</string>
+</resources>
